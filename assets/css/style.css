@@ -452,9 +452,9 @@ option{
     font-weight: 800;
 }
 
-.go-low{
+/* .go-low{
     margin-top: 27px;
-}
+} */
 
 .plan{
     color: var(--darkGreen30);
@@ -516,7 +516,7 @@ option{
         max-width: 100%;
         overflow-x: hidden;
     }
-
+    
     h1{
         font-family: "Bold";
         font-size: 58px;
