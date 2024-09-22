@@ -40,7 +40,6 @@ This project includes a simple yet structured HTML page, styled with reusable CS
 
 ### 📸 Screenshots
 ![Project Screenshot](./assets/readme_img/preview_page.png)
-![Project Screenshot](./assets/readme_img/preview_calcu.png)
 
 ## 🌱 Areas for Improvement
 
@@ -56,7 +55,7 @@ This project includes a simple yet structured HTML page, styled with reusable CS
 
 ## 🔗 Links
 
-- **Live Demo**: [\[\[My Live Site Link\](https://griez97.github.io/Abschlussprojekt-Frontend-Modul_1-Health-App/)\]]
+- **Live Demo**: [My Live Site Link\](https://griez97.github.io/Abschlussprojekt-Frontend-Modul_1-Health-App/)
 
 ## 👩‍💻 About Me
 
