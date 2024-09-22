@@ -55,7 +55,7 @@ This project includes a simple yet structured HTML page, styled with reusable CS
 
 ## 🔗 Links
 
-- **Live Demo**: [My Live Site Link\](https://griez97.github.io/Abschlussprojekt-Frontend-Modul_1-Health-App/)
+- **Live Demo**: <a href="https://griez97.github.io/Abschlussprojekt-Frontend-Modul_1-Health-App/" target="_blank">My Live Site Link</a>
 
 ## 👩‍💻 About Me
 
